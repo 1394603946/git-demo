@@ -15,4 +15,4 @@ hello ssc qjs
 hello ssc qjs
 hello ssc qjs
 hello ssc qjs  master 
-hello ssc qjs
+hello ssc qjs hot-fix
